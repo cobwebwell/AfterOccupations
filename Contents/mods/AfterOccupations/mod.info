@@ -1,0 +1,6 @@
+id=afterroleplay-occupations
+name=After Roleplay Occupations
+description=After Roleplay Occupations - İzinsiz kullanımı, düzenlenmesi/dağıtımı veyahut çoğaltılması ve başka platformlarda yayınlanması yasaklanmıştır.
+poster=poster.png
+require=ProfessionFramework
+authors=cobwebwell
