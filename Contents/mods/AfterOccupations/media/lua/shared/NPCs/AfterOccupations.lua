@@ -8,15 +8,15 @@ ProfessionFramework.RemoveDefaultProfessions = true
 ProfessionFramework.AlwaysUseStartingKits = true
 
 function EditProfUnemployed()
-local unemployed = ProfessionFactory.addProfession("unemployed", getText("UI_prof_unemployed"), "profession_unemployed", 0);
-local unemployed = TraitFactory.addTrait('Kabuslar', getText("UI_trait_nightmaresdesc"), "profession_unemployed", 0, true);
+   local unemployed = ProfessionFactory.addProfession("unemployed", getText("UI_prof_unemployed"), "profession_unemployed", 0);
 
-
-getProfession('unemployed', {
-   clothing = { 
-        Boilersuit = {"Base.Boilersuit_Prisoner"},
-   },
-})
+   getProfession('unemployed', {
+      clothing = { 
+           Boilersuit = {"Base.Boilersuit_Prisoner"},
+      },
+   })
+   
+end
 
 Events.OnGameBoot.Add(EditProfUnemployed);
 Events.OnPlayerDeath.Add(EditProfUnemployed);

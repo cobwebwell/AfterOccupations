@@ -1,11 +1,4 @@
 UI_EN = {
     UI_prof_unemployed = "Baþým dönüyor, ah...",
     UI_profdesc_unemployed = "Baþýnda bitmeyen bir aðrý, bulanýk hatýralar ve anýlar ile birlikte kendini burada buluyorsun.",
-    UI_trait_nightmaresdesc = "Kabuslar görüyorsun, arada yine bulanýk hatýralarýn seni buluyor."
-    UI_prof_Engineer = "Geçmiþ hayatýndan bazý tecrübeler seni býrakmýyor... Birkaç tarif biliyorsun."
-    UI_trait_nimblefingers = "Çilingir"
-    UI_trait_nimblefingersDesc = "Ellerin oldukça hamaratlý, bazý kilitleri maymuncuklayabiliyorsun ve alarm olup olmadýðýný anlayabiliyorsun. Fakat, bir toka bulman gerek."
-    UI_trait_Scavenger = "Hurdacý"
-    UI_trait_ScavengerDesc = "Umutsuzca girdiðin hurdalýktan iþine yarar bir þeyler bulabiliyorsun!"
-
 }
