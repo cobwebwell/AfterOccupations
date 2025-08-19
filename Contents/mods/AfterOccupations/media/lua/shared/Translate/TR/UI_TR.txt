@@ -1,4 +1,4 @@
-UI_EN = {
+UI_TR = {
     UI_prof_unemployed = "Baþým dönüyor, ah...",
     UI_profdesc_unemployed = "Baþýnda bitmeyen bir aðrý, bulanýk hatýralar ve anýlar ile birlikte kendini burada buluyorsun.",
     UI_trait_nightmaresdesc = "Kabuslar görüyorsun, arada yine bulanýk hatýralarýn seni buluyor."

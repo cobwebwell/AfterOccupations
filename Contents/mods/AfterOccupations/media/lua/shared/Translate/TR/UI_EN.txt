@@ -1,5 +1,0 @@
-UI_TR = {
-    UI_prof_unemployed = "İşsiz",
-    UI_profdesc_unemployed = "Varsayilan baslangic, kendini bir anda burada buluyorsun.",
-
-}
