@@ -9,7 +9,8 @@ ProfessionFramework.AlwaysUseStartingKits = true
 
 function EditProfUnemployed()
    local unemployed = ProfessionFactory.addProfession("unemployed", getText("UI_prof_unemployed"), "profession_unemployed", 0);
-
+   local unemployed = TraitFactory.addFreeTrait("kabus", getText("UI_trait_kabus"), "profession_unemployed");
+   
    getProfession('unemployed', {
       clothing = { 
            Boilersuit = {"Base.Boilersuit_Prisoner"},
