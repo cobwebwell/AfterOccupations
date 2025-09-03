@@ -1,6 +1,6 @@
 UI_TR = {
     
-    UI_prof_common = "Baþým dönüyor, ah...",
+    UI_prof_common = "Ýþsiz",
     UI_profdesc_common = "Baþýnda bitmeyen bir aðrý, bulanýk hatýralar ve anýlar ile birlikte kendini burada buluyorsun.",
 
     UI_prof_sharpshooter = "Kolluk Kuvvetleri",
@@ -10,13 +10,13 @@ UI_TR = {
     UI_profdesc_medic = "Saðlýk malzemeleri ve kullaným alanlarýnda tecrübelisin.",
 
     UI_prof_cook = "Aþçý",
-    UI_profdesc_cook = "Aþçýlýk kon usunda yeteneklisin, yaptýðýn þeyler sadece bir yemek deðil.",
+    UI_profdesc_cook = "Aþçýlýk konusunda yeteneklisin, yaptýðýn þeyler sadece bir yemek deðil.",
 
     UI_prof_farmer = "Çiftçi",
     UI_profdesc_farmer = "Çiftçilikten anlýyorsun, eski hayatýndan olmalý.",
 
     UI_prof_builder = "Amele",
-    UI_profdesc_builder = "Amele geldin, amele devam edeceksin. Yapýlar hakkýnda bilgilerini hatýrlýyorsun.",
+    UI_profdesc_builder = "Amele geldin, amele devam edeceksin. Duvar ve türlü þeylerin yapýmýný hatýrlýyorsun.",
 
     UI_prof_thief = "Hýrsýz",
     UI_profdesc_thief = "Eski hayatýnda bir hýrsýzdýn, düz kontak ve türlü þeylerden bazý hatýralarýn var...",

@@ -19,9 +19,6 @@ addProfession('common', {
         [Perks.Blunt] = 1,
         [Perks.SmallBlade] = 1,
     },
-    clothing = {
-         Boilersuit = {"Base.Boilersuit_Prisoner"},
-    },
 })
 
 addProfession('sharpshooter', {
@@ -36,9 +33,6 @@ addProfession('sharpshooter', {
         [Perks.SmallBlunt] = 2,
         [Perks.SmallBlade] = 1,
     },
-    clothing = {
-         Boilersuit = {"Base.Boilersuit_Prisoner"},
-    },
 })
 
 addProfession('medic', {
@@ -49,9 +43,6 @@ addProfession('medic', {
         [Perks.Doctor] = 5,
         [Perks.SmallBlade] = 3,
         [Perks.Lightfoot] = 2,
-    },
-    clothing = {
-         Boilersuit = {"Base.Boilersuit_Prisoner"},
     },
 })
 
@@ -68,9 +59,6 @@ addProfession('cook', {
     },
     recipes = {"Make Cake Batter", "Make Pie Dough", "Make Bread Dough"},
     traits = {"Cook2"},
-    clothing = {
-         Boilersuit = {"Base.Boilersuit_Prisoner"},
-    },
 })
 
 addProfession('farmer', {
@@ -85,9 +73,6 @@ addProfession('farmer', {
         [Perks.SmallBlade] = 2,
     },
     recipes = {"Make Cake Batter", "Make Pie Dough", "Make Bread Dough", "Make Fishing Rod", "Fix Fishing Rod", "Get Wire Back", "Make Fishing Net", "Make Mildew Cure", "Make Flies Cure"},
-    clothing = {
-         Boilersuit = {"Base.Boilersuit_Prisoner"},
-    },
 })
 
 
@@ -100,9 +85,6 @@ addProfession('builder', {
         [Perks.Woodwork] = 3,
         [Perks.Strength] = 3,
     },
-    clothing = {
-         Boilersuit = {"Base.Boilersuit_Prisoner"},
-    }
 })
 
 
@@ -118,9 +100,6 @@ addProfession('thief', {
         [Perks.SmallBlade] = 4,
     },
     traits = {"Burglar"},
-    clothing = {
-         Boilersuit = {"Base.Boilersuit_Prisoner"},
-    },
 })
 
 addProfession('scrapmech', {
@@ -134,9 +113,6 @@ addProfession('scrapmech', {
         [Perks.Blunt] = 2,
         [Perks.Mechanics] = 4,
     },
-    clothing = {
-         Boilersuit = {"Base.Boilersuit_Prisoner"},
-    },
     traits = {"Mechanics2"},
-    recipes = { "Basic Mechanics", "Intermediate Mechanics", "Advanced Mechanics", "Generator" }
+    recipes = { "Basic Mechanics", "Intermediate Mechanics", "Advanced Mechanics", "Generator" },
 })
